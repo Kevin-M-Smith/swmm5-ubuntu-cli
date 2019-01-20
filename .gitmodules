@@ -1,3 +1,6 @@
 [submodule "Stormwater-Management-Model"]
 	path = Stormwater-Management-Model
 	url = https://github.com/USEPA/Stormwater-Management-Model
+[submodule "swmmr"]
+	path = swmmr
+	url = https://github.com/dleutnant/swmmr
